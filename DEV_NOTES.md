@@ -23,3 +23,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed codebase, identified areas for improvement
 - Consolidated duplicate helper functions
 - Updated CI cache strategy
+
+## 2026-04-06
+- Tidied up project structure
+- Noted known limitation in docs
