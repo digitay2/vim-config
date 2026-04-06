@@ -27,3 +27,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Tidied up project structure
 - Noted known limitation in docs
+
+## 2026-04-06
+- Cross-checked behaviour against spec
